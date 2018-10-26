@@ -1,6 +1,7 @@
-esperanto = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
+
 
 def alphabetize(arr)
+  esperanto = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
   # code here
   # arr.each do |word|
   #   word.splitarr.sort_by {|w|w.downcase}
