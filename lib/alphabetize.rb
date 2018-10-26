@@ -6,3 +6,4 @@ def alphabetize(arr)
   #   word.splitarr.sort_by {|w|w.downcase}
 p  arr.split.chars.map{|ch|esperanto.index(ch)}
 end
+alphabetize(["mi amas vin", "bonan matenon", "pacon", "ĉu vi parolas esperanton"])
